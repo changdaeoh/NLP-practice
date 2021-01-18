@@ -22,9 +22,9 @@ start _2020.09_ ~
 | 2020.10. |  5.Linguistic Structure: Dependency Parsing | 이유민 | | |
 | 2020. |  6.Language Models and RNNs | 문혜현 | | |
 | 2020. |  7.Vanishing Gradients, Fancy RNNs | 강창구 | | |
-| 2021.01.02 |  8.Translation, Seq2Seq, Attention | 오창대 | | |
+| 2021.01.02 |  8.Translation, Seq2Seq, Attention | 오창대 |[Slide](https://github.com/changdaeoh/cs224n-nlp-study/tree/main/slide/lec8_seq2seqAttention_pst.pdf)| |
 | 2021.01.09 |  10.Question Answering | 이유민 | | |
-| 2021.01.16 |  11.Convolutional Networks for NLP | 오창대 | | |
+| 2021.01.16 |  11.Convolutional Networks for NLP | 오창대 | [Slide](https://github.com/changdaeoh/cs224n-nlp-study/tree/main/slide/lec11_CNNforNLP_pst.pdf) | |
 | 2021.01.23 |  12.Subword Models | 문혜현 | | |
 | 2021.0. |  13.Contextual Word Embeddings | 강창구 | | |
 | 2021.0. |  14.Transformers and Self-Attention | 이유민 | | |
